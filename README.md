@@ -22,3 +22,6 @@ GPIO relay control for the Raspberry Pi
 ## NOTES
 - Before running the script, check to see if your relay board uses conventional logic or inverted logic.  Adjust the variable provided in the script if necessary.
 - Once the script is running, it is not recommended to exit the program or reboot the Pi as this will turn off all outputs or leave them in an unknown state.
+
+## Screenshot
+![Screenshot](https://github.com/bunder2015/pi-relay/raw/master/screenshot.png?raw=true)
